@@ -5,10 +5,10 @@ import random
 import time
 from telebot.types import Message, InlineKeyboardMarkup, InlineKeyboardButton
 
-OWNER = 
-API_ID = os.getenv("API_ID", "")
-API_HASH = os.getenv("API_HASH", "")
-TOKEN = os.getenv("BOT_TOKEN", "")
+OWNER = 8118667253 
+API_ID = os.getenv("API_ID", "25933223")
+API_HASH = os.getenv("API_HASH", "6ef5a426d85b7f01562a41e6416791d3")
+TOKEN = os.getenv("BOT_TOKEN", "8087125389:AAFQm9W73dxk2H0rzZe87CSMQRijGbPfmU8")
 
 bot = telebot.TeleBot(TOKEN)
 
@@ -64,14 +64,14 @@ def txt_to_html(txt_path, html_path):
 <body>
 
     <div style="text-align: center; margin: 20px 0;">
-        <img src="https://envs.sh/tOz.jpg" height="150" alt="Image Above Summary">
+        <img src="https://envs.sh/Qt9.jpg" height="150" alt="Image Above Summary">
     </div>
 
     <details>
         <summary>CLICK TO OPEN</summary>
         
         <div class="header">
-            <a href='https://t.me/AJ_STYLE_EDITS' target='_blank'>
+            <a href='https://t.me/Ahttps://t.me/AJ_STYLE_EDITSJ_STYLE_EDITS' target='_blank'>
                 <img src='https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg' alt='Telegram Channel'>
                 Telegram Channel
             </a>
